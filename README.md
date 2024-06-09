@@ -1,16 +1,15 @@
-# crud_employee
+# Project Full Stack CRUD Laravel + Flutter
 
-A new Flutter project.
+Hello! my name is Denny Mario you can find me here
 
-## Getting Started
+[Instagram](https://www.instagram.com/dennymar.io/)
+[Linkedin](https://www.linkedin.com/in/denny-mario-821a721a4/)
+[Email](dennym.channel@gmail.com)
+This is my first full stack project using Laravel + Flutter. Which include CRUD Operation
 
-This project is a starting point for a Flutter application.
+1. Create
+2. Read
+3. Update
+4. Delete
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Thanks!
